@@ -1,12 +1,4 @@
-# Satellite Remote Sensing — Practical Classes (2026)
-
-######      ###     ##                  ##
-##   ##    ## ##    ##                  ##
-##    ##  ##   ##   ##         #####    ######
-##    ##  #######   ##             ##   ##   ##
-##    ##  ##   ##   ##         ######   ##   ##
-##   ##   ##   ##   ##        ##   ##   ##   ##
-######    ##   ##   #######    ######   ######
+# PLNT 7620-Satellite Remote Sensing — Practical Classes (Nov. 2026)
 
 **University of Manitoba · Digital AgroEcosystems Lab (DALab)**  
 **Instructor:** Dr. Nasem Badreldin
