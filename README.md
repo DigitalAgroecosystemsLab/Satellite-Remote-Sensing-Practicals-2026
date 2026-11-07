@@ -1,6 +1,6 @@
 # Satellite Remote Sensing — Practical Classes (2026)
 
-**University of Manitoba · Digital AgroEcosystems Lab (DAL)**  
+**University of Manitoba · Digital AgroEcosystems Lab (DALab)**  
 **Instructor:** Dr. Nasem Badreldin
 
 Interactive practicals in satellite remote sensing, Earth observation and agricultural landscape analysis. Each practical runs in **Google Colab** using Python. No local Python installation is required.
