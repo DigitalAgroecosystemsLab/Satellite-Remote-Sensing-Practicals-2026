@@ -1,5 +1,13 @@
 # Satellite Remote Sensing — Practical Classes (2026)
 
+######      ###     ##                  ##
+##   ##    ## ##    ##                  ##
+##    ##  ##   ##   ##         #####    ######
+##    ##  #######   ##             ##   ##   ##
+##    ##  ##   ##   ##         ######   ##   ##
+##   ##   ##   ##   ##        ##   ##   ##   ##
+######    ##   ##   #######    ######   ######
+
 **University of Manitoba · Digital AgroEcosystems Lab (DALab)**  
 **Instructor:** Dr. Nasem Badreldin
 
