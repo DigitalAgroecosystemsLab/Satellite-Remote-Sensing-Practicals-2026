@@ -1,0 +1,1 @@
+# Satellite-Remote-Sensing-Practicals-2026
