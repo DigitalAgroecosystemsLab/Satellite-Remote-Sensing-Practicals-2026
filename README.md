@@ -1,7 +1,19 @@
-# PLNT 7620-Satellite Remote Sensing — Practical Classes (Nov. 2026)
+<div align="center">
+  <a href="https://www.digitalagroecosystemslab.ca/">
+    <img src="assets/logos/digital-agroecosystems-lab.png" alt="Digital AgroEcosystems Lab (DALab)" height="90">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://umanitoba.ca/">
+    <img src="assets/logos/university-of-manitoba.png" alt="University of Manitoba" height="75">
+  </a>
+</div>
 
-**University of Manitoba · Digital AgroEcosystems Lab (DALab)**  
-**Instructor:** Dr. Nasem Badreldin
+<h1 align="center">PLNT 7620 — Satellite Remote Sensing</h1>
+<p align="center"><strong>Interactive Practical Classes · November 2026</strong><br>
+University of Manitoba · Digital AgroEcosystems Lab (DALab)<br>
+Instructor: Dr. Nasem Badreldin</p>
+
+---
 
 Interactive practicals in satellite remote sensing, Earth observation and agricultural landscape analysis. Each practical runs in **Google Colab** using Python. No local Python installation is required.
 
