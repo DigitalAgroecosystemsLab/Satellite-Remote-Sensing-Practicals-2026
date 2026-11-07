@@ -1,0 +1,25 @@
+# Local Colab and Python artefacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Student outputs and large geospatial datasets (not part of the course repository)
+Satellite_Practicals/
+student_outputs/
+output/
+outputs/
+*.tif
+*.tiff
+*.zip
+*.gpkg
+*.las
+*.laz
+*.parquet
+*.nc
+
+# Secrets / credentials
+.env
+*.pem
+credentials.json
+service_account*.json
