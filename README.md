@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">PLNT 7620 — Satellite Remote Sensing</h1>
+<h1 align="center">PLNT 7620/PART 4 - Satellite Remote Sensing</h1>
 <p align="center"><strong>Interactive Practical Classes · November 2026</strong><br>
 University of Manitoba · Digital AgroEcosystems Lab (DALab)<br>
 Instructor: Dr. Nasem Badreldin</p>
