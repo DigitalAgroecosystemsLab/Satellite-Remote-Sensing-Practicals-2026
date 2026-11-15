@@ -28,9 +28,6 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | **03. Land Use/Land Cover Dynamics** | AAFC Annual Crop Inventory, land-cover transitions, area statistics and Sankey diagrams | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_03_AAFC_LULC_Dynamics.ipynb) |
 | **04. Digital Elevation Models & Hydrological Processes** | LiDAR 1 m, LiDAR 30 m and SRTM 30 m; terrain and hydrology analyses | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_04_DEM_Hydrology.ipynb) |
 | **05. Hyperspectral Satellite Imaging & Spectroscopy** | Shared Drive spectra; spectral QC, preprocessing, PCA and optional PLS modelling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb) |
-| **06. Synthetic Aperture Radar (SAR)** | Sentinel-1 and agricultural monitoring | *Coming soon* |
-| **07. Multisensor Image Fusion & Data Integration** | Integrating optical, SAR and terrain data | *Coming soon* |
-| **08. Satellite Applications & Research Case Studies** | Agricultural decision-making and research applications | *Coming soon* |
 
 ## Getting started
 
