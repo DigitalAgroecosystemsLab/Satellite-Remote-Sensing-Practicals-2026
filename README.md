@@ -27,7 +27,7 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | **02. Vegetation Indices & Multitemporal Dynamics** | Sentinel-2 field-level growth curves, 10-day composites and crop phenology metrics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_02_Crop_Growth_Phenology.ipynb) |
 | **03. Land Use/Land Cover Dynamics** | AAFC Annual Crop Inventory, land-cover transitions, area statistics and Sankey diagrams | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_03_AAFC_LULC_Dynamics.ipynb) |
 | **04. Digital Elevation Models & Hydrological Processes** | LiDAR 1 m, LiDAR 30 m and SRTM 30 m; terrain and hydrology analyses | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_04_DEM_Hydrology.ipynb) |
-| **05. Hyperspectral Satellite Imaging & Spectroscopy** | Soil and vegetation spectral signatures | *Coming soon* |
+| **05. Hyperspectral Satellite Imaging & Spectroscopy** | Shared Drive spectra; spectral QC, preprocessing, PCA and optional PLS modelling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb) |
 | **06. Synthetic Aperture Radar (SAR)** | Sentinel-1 and agricultural monitoring | *Coming soon* |
 | **07. Multisensor Image Fusion & Data Integration** | Integrating optical, SAR and terrain data | *Coming soon* |
 | **08. Satellite Applications & Research Case Studies** | Agricultural decision-making and research applications | *Coming soon* |
@@ -51,6 +51,7 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | 02 | Draw **three field polygons** (with alternate input options) | Sentinel-2 from Earth Engine; exports field time series, phenology and rasters to your own Drive |
 | 03 | Draw **one agricultural landscape ROI** | AAFC Annual Crop Inventory from Earth Engine; exports area statistics, maps and transitions to your own Drive |
 | 04 | **No student-uploaded ROI required**; the supplied Elm Creek regional ROI and zoom boundary are loaded automatically | LiDAR archives are in instructor-shared Drive; SRTM from Earth Engine; outputs go to your own Drive |
+| 05 | No satellite ROI required for tabular spectra | [Instructor's shared spectroscopy folder](https://drive.google.com/drive/folders/1MZeno2uHjEn-hFJTYknID5yaUFFbFjPE?usp=sharing); files retrieved into Colab; figures and tables saved to each student's own Drive |
 
 ### Practical 4 instructor-provided datasets
 
@@ -75,6 +76,7 @@ Satellite-Remote-Sensing-Practicals-2026/
 ├── Practical_02_Crop_Growth_Phenology.ipynb
 ├── Practical_03_AAFC_LULC_Dynamics.ipynb
 ├── Practical_04_DEM_Hydrology.ipynb
+├── Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb
 └── .gitignore
 ```
 
