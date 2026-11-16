@@ -27,7 +27,7 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | **02. Vegetation Indices & Multitemporal Dynamics** | Sentinel-2 field-level growth curves, 10-day composites and crop phenology metrics | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_02_Crop_Growth_Phenology.ipynb) |
 | **03. Land Use/Land Cover Dynamics** | AAFC Annual Crop Inventory, land-cover transitions, area statistics and Sankey diagrams | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_03_AAFC_LULC_Dynamics.ipynb) |
 | **04. Digital Elevation Models & Hydrological Processes** | LiDAR 1 m, LiDAR 30 m and SRTM 30 m; terrain and hydrology analyses | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_04_DEM_Hydrology.ipynb) |
-| **05. Hyperspectral Satellite Imaging & Spectroscopy** | Hyperspectral satellite imaging and spectroscopy practical | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_Hyperspectral_Satellite_Imaging_and_Spectroscopy.ipynb) |
+| **05. Hyperspectral Data & Spectroscopy** | Shared Drive spectra; spectral QC, preprocessing, PCA and optional PLS modelling | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb) |
 
 ## Getting started
 
@@ -73,7 +73,7 @@ Satellite-Remote-Sensing-Practicals-2026/
 ├── Practical_02_Crop_Growth_Phenology.ipynb
 ├── Practical_03_AAFC_LULC_Dynamics.ipynb
 ├── Practical_04_DEM_Hydrology.ipynb
-├── Practical_05_Hyperspectral_Satellite_Imaging_and_Spectroscopy.ipynb
+├── Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb
 └── .gitignore
 ```
 
