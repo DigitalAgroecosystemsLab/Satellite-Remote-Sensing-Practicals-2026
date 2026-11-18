@@ -29,6 +29,8 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | **04. Digital Elevation Models & Hydrological Processes** | LiDAR 1 m, LiDAR 30 m and SRTM 30 m; terrain and hydrology analyses | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_04_DEM_Hydrology.ipynb) |
 | **05. Hyperspectral Satellite Imaging & Spectroscopy** | Laboratory soil spectra, QC, preprocessing and predictive modelling; optional NASA EMIT activity · Prepared by Dr. Zeinab Dastgheib | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_Hyperspectral_Satellite_Imaging_and_Spectroscopy.ipynb) |
 
+| **06. Dragonette-004 Hyperspectral Satellite (Practical 5.1)** | 31-band L2A reflectance; interactive student-drawn ROI; false-colour/red-edge composites; indices; pixel and polygon-mean spectra | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/blob/main/Practical_05_1_Dragonette_Hyperspectral_Satellite.ipynb) |
+
 ## Getting started
 
 1. Click **Open in Colab** next to the practical assigned for class.
@@ -49,6 +51,8 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | 03 | Draw **one agricultural landscape ROI** | AAFC Annual Crop Inventory from Earth Engine; exports area statistics, maps and transitions to your own Drive |
 | 04 | **No student-uploaded ROI required**; the supplied Elm Creek regional ROI and zoom boundary are loaded automatically | LiDAR archives are in instructor-shared Drive; SRTM from Earth Engine; outputs go to your own Drive |
 | 05 | No satellite ROI required for tabular spectra | [Instructor's shared spectroscopy folder](https://drive.google.com/drive/folders/1MZeno2uHjEn-hFJTYknID5yaUFFbFjPE?usp=sharing); add shared-folder shortcut as `PLNT7620_05_Shared_Data` in My Drive; results saved under `PLNT7620_Practical_05_Outputs` |
+
+| 06 (Practical 5.1) | Draw **one scene ROI**, select **one pixel** and draw **at least two sample polygons** using the satellite-overlay map. Finish each polygon by clicking its first vertex. | [Instructor's Dragonette-004 dataset](https://drive.google.com/drive/folders/1RaPPPhmaJ8kOxwfLkoORBaR90-QBnVJJ?usp=sharing); add a shortcut in My Drive, or specify the L2A GeoTIFF path. Student outputs are saved in the Colab session and can be copied to their own Drive. **No OpenStreetMap tiles required**; if polygons fail to register, return to the sample-map cell, finish both polygons, and rerun spectral extraction without rerunning the map setup. |
 
 ### Practical 4 instructor-provided datasets
 
@@ -73,7 +77,10 @@ Satellite-Remote-Sensing-Practicals-2026/
 ├── Practical_02_Crop_Growth_Phenology.ipynb
 ├── Practical_03_AAFC_LULC_Dynamics.ipynb
 ├── Practical_04_DEM_Hydrology.ipynb
+├── Practical_05_Hyperspectral_Imaging_Spectroscopy.ipynb
 ├── Practical_05_Hyperspectral_Satellite_Imaging_and_Spectroscopy.ipynb
+├── Practical_05_1_Dragonette_Hyperspectral_Satellite.ipynb
+├── assets/
 └── .gitignore
 ```
 
