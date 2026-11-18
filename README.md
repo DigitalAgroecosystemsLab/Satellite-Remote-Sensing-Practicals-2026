@@ -50,7 +50,6 @@ Interactive practicals in satellite remote sensing, Earth observation and agricu
 | 03 | Draw **one agricultural landscape ROI** | AAFC Annual Crop Inventory from Earth Engine; exports area statistics, maps and transitions to your own Drive |
 | 04 | **No student-uploaded ROI required**; the supplied Elm Creek regional ROI and zoom boundary are loaded automatically | LiDAR archives are in instructor-shared Drive; SRTM from Earth Engine; outputs go to your own Drive |
 | 05 | No satellite ROI required for tabular spectra | [Instructor's shared spectroscopy folder](https://drive.google.com/drive/folders/1MZeno2uHjEn-hFJTYknID5yaUFFbFjPE?usp=sharing); add shared-folder shortcut as `PLNT7620_05_Shared_Data` in My Drive; results saved under `PLNT7620_Practical_05_Outputs` |
-
 | 06 (Practical 5.1) | Draw **one scene ROI**, select **one pixel** and draw **at least two sample polygons** using the satellite-overlay map. Finish each polygon by clicking its first vertex. | [Instructor's Dragonette-004 dataset](https://drive.google.com/drive/folders/1RaPPPhmaJ8kOxwfLkoORBaR90-QBnVJJ?usp=sharing); add a shortcut in My Drive, or specify the L2A GeoTIFF path. Student outputs are saved in the Colab session and can be copied to their own Drive. **No OpenStreetMap tiles required**; if polygons fail to register, return to the sample-map cell, finish both polygons, and rerun spectral extraction without rerunning the map setup. |
 
 ### Practical 4 instructor-provided datasets
